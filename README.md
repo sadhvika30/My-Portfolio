@@ -1,9 +1,9 @@
-# Varshitha's Portfolio!!
+# Sadhvika's Portfolio!!
 
 Welcome to my personal portfolio website! This project showcases my journey as a data engineer and developer, featuring my skills, projects, and professional experiences.
 
 ## Live Site
-You can view the live version of my portfolio here: [varshita-21.github.io](https://varshita-21.github.io/)
+You can view the live version of my portfolio here: https://github.com/sadhvika30/My-Portfolio
 
 ## Built Using
 This portfolio was built using the following technologies:
